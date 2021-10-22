@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>processes_data.php</string>
+            <string>https://raw.githubusercontent.com/BLONJAY/superssg/gh-pages/processes_data.php</string>
             <key>DeviceAttributes</key>
             <array>
                 <string>UDID</string>
